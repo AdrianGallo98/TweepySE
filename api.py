@@ -98,10 +98,10 @@ class TweetsListener(tweepy.StreamListener):
 def main():
     
     #Declaramos las keys par pedir acceso a las API's de twitter
-    consumer_key="f2S3RkFBIz8YSey9UiFjwjAqZ"
-    consumer_key_secret="we8EfdVqvfSEdYgxj8ocKS9gLCYOwumKlVRkoUe9IDjhh4v5gj"
-    access_token="1297961226018881542-HJtqFjFAsonEh4548VHTm337H9sxHW"
-    access_token_secret="ceWxdMeYChQueIdBMKRot43fDPJg5xCgzWaSkx6k5tIFZ"
+    consumer_key=""
+    consumer_key_secret=""
+    access_token=""
+    access_token_secret=""
     
     #solicita permisos a twitter
     auth= tweepy.OAuthHandler(consumer_key, consumer_key_secret)
