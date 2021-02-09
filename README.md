@@ -1,4 +1,4 @@
-# TweepySE
+# TweepySE (Sentiment Analysis)
 Genera un archivo csv con tweets obtenidos en tiempo real con palabras en un diccionario especificado dentro del codigo.
 
 We need the information to fill data frameworks and try to do a filter, we're trying to learn about data mining togheter with genetic algorithms, as well as with parallel computing. This is our final proyect of our subject called Metaherustics.
